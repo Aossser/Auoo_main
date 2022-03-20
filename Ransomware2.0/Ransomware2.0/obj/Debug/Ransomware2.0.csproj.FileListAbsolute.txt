@@ -1,0 +1,11 @@
+D:\Ransomware2.0\Ransomware2.0\bin\Debug\Ransomware2.0.exe.config
+D:\Ransomware2.0\Ransomware2.0\bin\Debug\Ransomware2.0.exe
+D:\Ransomware2.0\Ransomware2.0\bin\Debug\Ransomware2.0.pdb
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2.0.csproj.AssemblyReference.cache
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2.0.csproj.SuggestedBindingRedirects.cache
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2._0.Properties.Resources.resources
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2.0.csproj.GenerateResource.cache
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2.0.csproj.CoreCompileInputs.cache
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2.0.exe
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2.0.pdb
+D:\Ransomware2.0\Ransomware2.0\obj\Debug\Ransomware2._0.Ransomware2.resources
